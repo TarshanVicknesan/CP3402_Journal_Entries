@@ -11,10 +11,13 @@ Once the website was complete and all the work was committed to my repository, I
 **References:**
 
 **Website Template Used**
+
 https://startbootstrap.com/template/business-frontpage
 
 **Youtube Video Links**
+
 https://youtu.be/BT4WzyT2g8k?si=y2ICUM-nKOWGcQQT
+
 https://youtu.be/MLOBVhEuXHs?si=h_fanLc8x-yNdGbl
 
 **Estimated Hours:**
