@@ -26,7 +26,7 @@ Around 5 to 6 hours, including writing the journal entry and coding the website.
 
 ## **Content Insights**
 
-From this task, I learned that I need to improve my skills in HTML and JavaScript. However, based on the time it took me to refresh my knowledge, it shouldn’t take long to relearn the techniques and styles. Additionally, I realised the need to dedicate more time to finding suitable images for the website, as it currently looks quite bland. While the final design and layout were not exactly what I envisioned, I still appreciate the outcome and how it turned out.
+From this task, I learned that I need to improve my skills in HTML and JavaScript. However, based on the time it took me to refresh my knowledge, it shouldn’t take long to relearn the techniques and styles. While the final design and layout were not exactly what I envisioned, I still appreciate the outcome and how it turned out.
 
 ## **Career/Employability/Learning Insights**
 
