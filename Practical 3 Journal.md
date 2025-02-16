@@ -1,4 +1,4 @@
-# **Week 2 - Learning about WordPress**
+# **Week 3 - Learning about WordPress**
 
 ## **Learning Activities & Resources**
 
