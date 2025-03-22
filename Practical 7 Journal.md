@@ -1,33 +1,25 @@
-# **Week 5 - Creating a child theme on Wordpress**
+# **Week 7 - PHP Programming**
 
 ## **Learning Activities & Resources**
 
-In week 5, I have been tasked with making a child theme on any WordPress site, so I have decided to do it on my localhost site, which was configured last week in week 4. The workflow began with creating a new folder within the themes directory under the XAMPP localhost folder. Once the new folder was set up, I added a functions.php file and a style.css file to establish the child theme. The functions.php file was crucial as it allowed me to pull in the parent Twenty Twenty-Four theme’s styles, ensuring that I could build upon its structure while maintaining its functionality. By linking the style.css file to the child theme, I was able to apply custom styles without altering the original parent theme.
+In Week 7, the task was to learn PHP and complete all the requirements for the project. The goal was to create a simple blog website where posts could be displayed, new posts could be added, and the data could be stored in a JSON file. I started by learning the basics of PHP, such as syntax, variables, and functions, using the tutorial from W3Schools. I learned how to echo HTML content, use if/else statements for decision-making, and use loops like foreach to display data. I also learned about file handling in PHP, like reading from and writing to a JSON file using file_get_contents() and file_put_contents().
 
-During this process, I encountered a few challenges, primarily with my development environment. My VS Code editor was unable to read and interpret the PHP code correctly. After some troubleshooting, I found that I needed to modify the settings in VS Code to enable PHP support, which resolved the issue. Throughout the setup and customization process, I relied on various online resources, including forums and websites, to solve problems and clarify my understanding. These resources were invaluable for troubleshooting and helped me to quickly resolve issues, ensuring that my child theme was properly set up and functional.
-
-The customizations I made to the style.css file focused on making the site look cleaner and more professional. I changed the color scheme to a grey-and-white background with blue buttons to give the site a more modern feel. I also updated the font to something more readable and professional. I made some small changes to the header and footer to make them look cleaner, and I made sure the buttons stood out by giving them a blue color and hover effect. These changes helped improve the look of the site while keeping the original functionality of the parent theme.
+To get the website running, I set it up on my localhost using Apache. This allowed me to view and test the website in a local environment. As I moved forward, I applied what I learned to build the blog website. I used PHP to display blog posts from the posts.json file and created a form to let users add new posts. To make the website easier to manage, I used the include() function to add the same header and footer to different pages. I also used CSS to style the website, making it look good and user-friendly. Throughout the project, I tested the website to make sure everything worked, using W3Schools as a helpful guide for learning PHP.
 
 ## **References:**
 
 **Website Tutorial Links**
 
-https://theme4press.com/create-wordpress-child-theme-step-step/
-
-https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/
-
-https://stackoverflow.com/questions/34182067/cannot-validate-the-php-file-the-php-program-was-not-found
-
-https://wordpress.stackexchange.com/questions/378923/child-theme-style-not-changing-on-localhost
+https://www.w3schools.com/php/default.asp
 
 ## **Estimated Hours:**
 
-3 to 5 hours
+2 to 3 hours
 
 ## **Content Insights**
 
-This week, I focused on setting up a child theme in WordPress and customizing the Twenty Twenty-Four template. Instead of editing the content directly, I worked on modifying the design and layout using the style.css file. This experience gave me a deeper understanding of how WordPress themes function and how a child theme allows for safe and effective customizations without altering the original theme. I also learned how to work with the WordPress file structure and apply CSS to make noticeable changes to a website's appearance. Overall, this process improved my skills in theme customization and helped me better understand how to personalize a WordPress site.
+This project helped me learn the basics of PHP, such as working with HTML, handling forms, and using loops and conditional statements. I also gained experience in managing data with JSON files, which is useful for web applications. Implementing PHP functions like include() made my website more organized. Additionally, I learned how to style the site using CSS to improve user experience.
 
 ## **Career/Employability/Learning Insights**
 
-Working on customizing WordPress themes has helped me develop practical skills in web design, CSS, and problem-solving. Understanding how to work with theme structures and apply design changes without affecting core functionality is an important skill for many development roles. This experience has enhanced my ability to troubleshoot issues, adapt to different tools, and implement design solutions effectively. These skills are directly applicable to my future career, where attention to detail, adaptability, and technical problem-solving will be essential in creating engaging digital experiences, both in game development and web development projects.
+Building this project has improved my web development skills, especially in server-side programming with PHP. I gained hands-on experience setting up a local server using Apache, which is an important skill in the tech industry. This project also taught me how to troubleshoot and debug my code, enhancing my problem-solving abilities. Overall, these skills are valuable for roles in web development and will help me become more employable in the field.
